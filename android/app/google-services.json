@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166823812011",
+    "project_id": "guitarstore-8df9d",
+    "storage_bucket": "guitarstore-8df9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166823812011:android:6d5cc6df0a217c23b090ee",
+        "android_client_info": {
+          "package_name": "com.jonatan.dev.t_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPr0LjNw5WP0i4Y05jew-GRnewP2uqxTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
